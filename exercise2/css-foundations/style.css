@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+  color: #102a1f;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #047857;
+  margin-bottom: 8px;
+}
+
+h2 {
+  color: #164e3f;
+  margin-top: 28px;
+}
+
+a {
+  color: #0f766e;
+}
+
+.resource-card {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 24px;
+  background-color: #00f7ff;
+  border: 1px solid #bbf7d0;
+  border-radius: 16px;
+}
+
+.summary {
+  color: #37685a;
+  font-size: 18px;
+}
+
+img {
+  border: 1px solid #bbf7d0;
+  border-radius: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+td {
+  border: 1px solid #bbf7d0;
+  padding: 8px 12px;
+}
+
+th {
+  border: 1px solid #bbf7d0;
+  padding: 8px 12px;
+  background-color: #d1fae5;
+}
