@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f8fafc;
-  color: #111827;
+  background-color: #a0d0ff;
+  color: #141c2c;
   line-height: 1.5;
 }
 
@@ -20,7 +20,7 @@ h2 {
 
 .quick-nav {
   padding: 20px;
-  background-color: rgba(172, 148, 133, 0.759);
+  background-color: rgba(145, 124, 112, 0.759);
 }
 
 .quick-nav > a {
