@@ -14,4 +14,4 @@ it selects only <a> elements  that are directe children of .quick-nav >
 so mouse and keyboard user can link intreactive and selecte
 
 ## 5. If `a` and `.quick-nav > a` both set `color` on a navigation link, which selector wins in the stylesheet of this lesson?
- `a` and `.quick-nav > a` both more specific
+ `a` and `.quick-nav > a` both more specific.

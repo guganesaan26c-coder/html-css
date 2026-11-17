@@ -1,0 +1,237 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8fafc;
+  color: #111827;
+  line-height: 1.5;
+}
+
+a {
+  color: #7d8ba9;
+  background-color: transparent;
+}
+
+h2 {
+  color:h2 {
+  color: #111827;
+}
+
+}
+
+.quick-nav {
+  padding: 20px;
+  background-color: rgba(172, 148, 133, 0.759);
+}
+
+.quick-nav > a {
+  margin-right: 16px;
+  color: #111827;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.quick-nav > a:hover,
+.quick-nav > a:focus {
+  color: #6485cc;
+  outline: 3px solid #658187;
+  outline-offset: 4px;
+}
+
+.intro-panel,
+.material-shelf,
+.downloads,
+.page-footer {
+  max-width: 1000px;
+  margin: 32px auto;
+  padding: 0 24px;
+}
+
+.intro-panel {
+  padding-top: 48px;
+}
+
+.intro-panel h1 {
+  font-size: 44px;
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+
+.kicker {
+  color: #000000;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.material-shelf {
+  background-color: #eff6ff;
+  padding: 32px;
+  border-radius: 24px;
+}
+
+.material-shelf p {
+  color: #000000;
+}.material-shelf p {
+  color: #4b5563;
+}
+
+.shelf-intro {
+  max-width: 620px;
+}
+
+.material-list {
+  margin-top: 24px;
+}
+
+h2.material-card {
+  background-color: rgb(175, 174, 174);
+  padding: 20px;
+  border: 1px solid #dbeafe;
+  border-radius: 18px;
+  margin-top: 16px;
+}
+
+.material-card h3 {
+  margin-top: 0;
+  color:  #000000;
+}
+
+.lesson-link {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 10px 14px;
+  background-color: #3b82f6;
+  color: white;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.material-shelf .lesson-link {
+  background-color: #262c32;
+}.material-card {
+  padding: 20px;
+}
+
+
+.lesson-link:hover,
+.lesson-link:focus {
+  background-color: #000000;
+  outline: 3px solid #000000;
+  outline-offset: 3px;
+}
+
+.downloads {
+  background-color: white;
+  border: 1px solid #4c4d4e;
+  border-radius: 18px;
+  padding: 24px;
+}
+
+.downloads a:hover,
+.downloads a:focus,
+.page-footer a:hover,
+.page-footer a:focus {
+  outline: 3px solid #90c1fd;
+  outline-offset: 3px;
+}body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #95d3fd;
+  color: #000000;
+  line-height: 1.5;
+}h2 {
+  color: #111827;
+}
+.material-card {
+  background-color: rgb(173, 165, 165);
+  padding: 20px;
+  border-radius: 18px;
+}
+
+.material-card {
+  padding: 20px;
+}
+
+.intro-panel,
+.material-shelf,
+.downloads,
+.page-footer {
+  max-width: 1000px;
+  margin: 32px auto;
+  padding: 0 24px;
+}
+
+.intro-panel {
+  padding-top: 48px;
+}
+
+.kicker {
+  color: #000000;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.material-shelf {
+  background-color: #eff6ff;
+  padding: 32px;
+  border-radius: 24px;
+}
+
+.shelf-intro {
+  max-width: 620px;
+}
+
+.material-list {
+  margin-top: 24px;
+}
+
+.material-card {
+  background-color: rgb(199, 199, 199);
+  padding: 20px;
+  border: 1px solid #07d7ee;
+  border-radius: 18px;
+  margin-top: 16px;
+}
+.lesson-link {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 10px 14px;
+  background-color: #7ca1de;
+  color: rgb(0, 0, 0);
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.material-shelf .lesson-link {
+  background-color: #3cb3f400;
+}
+
+.lesson-link:hover,
+.lesson-link:focus {
+  background-color: #557be3d4;
+  outline: 3px solid #659ed7;
+  outline-offset: 3px;
+}a {
+  color: #2563eb;
+  background-color: transparent;
+}.lesson-link {
+  background-color: #3b82f6;
+}
+
+.material-shelf .lesson-link {
+  background-color: #84abff;
+}
+.quick-nav > a {
+  color: #111827;
+}
+.material-card {
+  border: 1px solid #93c5fd;
+}
+
+
+
+
+/* test */
