@@ -214,24 +214,4 @@ h2.material-card {
   background-color: #557be3d4;
   outline: 3px solid #659ed7;
   outline-offset: 3px;
-}a {
-  color: #2563eb;
-  background-color: transparent;
-}.lesson-link {
-  background-color: #3b82f6;
 }
-
-.material-shelf .lesson-link {
-  background-color: #84abff;
-}
-.quick-nav > a {
-  color: #111827;
-}
-.material-card {
-  border: 1px solid #93c5fd;
-}
-
-
-
-
-/* test */
