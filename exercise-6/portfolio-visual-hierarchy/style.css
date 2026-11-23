@@ -104,12 +104,12 @@ h1 {
 
 .primary-action:hover,
 .primary-action:focus {
-  background-color: #adbe17;
+  background-color: #ffffff;
 }
 
 .secondary-action:hover,
 .secondary-action:focus {
-  background-color: #d3d595;
+  background-color: #d2d2d2;
 }
 
 .session-section {
