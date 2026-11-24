@@ -1,4 +1,4 @@
-v# Bootstrap landing page: my answers
+# Bootstrap landing page: my answers
 
 ## 1. Which Bootstrap classes did you use for the navbar?
 

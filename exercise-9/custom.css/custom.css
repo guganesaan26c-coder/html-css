@@ -6,11 +6,11 @@ body {
 .pattern-intro {
   background:
     linear-gradient(135deg, rgba(13, 110, 253, 0.12), rgba(32, 201, 151, 0.12)),
-    #f8fbff;
+    #e4f0ff;
 }
 
 .lab-label {
-  color: #0d6efd;
+  color: #000000;
   font-size: 0.8rem;
   font-weight: 700;
   letter-spacing: 0.08em;
@@ -18,17 +18,18 @@ body {
 }
 
 .practice-panel {
-  border: 1px solid #d7e3f4;
+  border: 1px solid #fbfbfb;
   border-radius: 1.25rem;
-  background-color: #ffffff;
+  background-color: #b9f1ff;
   padding: 2rem;
 }
 
 .topic-card {
-  border-color: #d7e3f4;
+  border-color:  #e4f0ff;
   border-radius: 1rem;
 }
 
 .form-slice {
-  background-color: #eef5ff;
+  background-color: #e4f0ff;
+
 }
